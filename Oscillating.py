@@ -2,8 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #accelerate particle from t = 0. to t= 1., and constant velocity before.
+#Now i am testing the Visual Studio Code
 
-
+print('Particle Ocilations')
 
 def r_0(t):
     w = np.pi
